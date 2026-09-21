@@ -1,0 +1,28 @@
+# Private planning notes — not for the public repo
+docs/PROJECT-PLAN.md
+
+# Data — H&M competition rules restrict redistribution
+data/
+*.csv
+*.csv.zip
+*.parquet
+
+# Local Spark / Delta artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+_delta_log/
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credentials
+.env
+.databrickscfg
+kaggle.json
+
+# OS
+.DS_Store
