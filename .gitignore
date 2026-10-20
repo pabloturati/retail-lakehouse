@@ -1,5 +1,5 @@
-# Private planning notes — not for the public repo
-docs/PROJECT-PLAN.md
+# Local notes
+*.local.md
 
 # Data — H&M competition rules restrict redistribution
 data/
